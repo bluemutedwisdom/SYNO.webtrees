@@ -1,0 +1,15 @@
+{
+	".url": {
+		"SYNO.SDS.webtrees": {
+			"type": "url",
+			"allUsers": true,
+			"title": "app:app_name",
+			"desc": "app:description",
+			"icon": "images/webtrees_{0}.png",
+			"texts": "texts",
+			"protocol": "http",
+			"url": "/webtrees/",
+			"port": "80"
+		}
+	}
+}

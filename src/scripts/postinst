@@ -1,0 +1,6 @@
+#!/bin/sh
+
+rm -rf /var/services/web/webtrees
+mv /var/packages/webtrees/target/webtrees /var/services/web/webtrees
+
+exit 0

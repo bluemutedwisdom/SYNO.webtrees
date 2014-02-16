@@ -1,0 +1,5 @@
+#!/bin/sh
+
+rm -f /tmp/pwebt.upgrade
+
+exit 0
